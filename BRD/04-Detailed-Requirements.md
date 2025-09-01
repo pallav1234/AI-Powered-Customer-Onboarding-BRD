@@ -2,6 +2,32 @@
 
 This section defines the **functional and business requirements** for the AI-powered onboarding system.
 
+## Functional Requirements
+
+| ID       | Requirement                  | Description |
+|----------|------------------------------|-------------|
+| FR-001   | User Authentication          | The system must allow customers to log in using username/password or supported SSO methods (e.g., Google, OTP). |
+| FR-002   | Dashboard Access             | Upon login, users must be able to view a dashboard with onboarding status and available actions. |
+| FR-003   | Document Upload              | The system must allow customers to upload ID documents (Aadhaar, PAN, Passport) in image/PDF format. |
+| FR-004   | OCR Extraction               | The system must automatically extract customer details from uploaded documents using OCR with ≥95% accuracy. |
+| FR-005   | Data Validation              | Extracted details must be validated against predefined rules (e.g., Aadhaar format, PAN checksum). |
+| FR-006   | KYC Verification             | The system must verify uploaded documents against external KYC databases or APIs. |
+| FR-007   | Validation Progress          | Customers must see real-time validation progress (Pending, In Progress, Completed, Failed). |
+| FR-008   | Validation Result            | The system must display the final result (Approved/Rejected) with reasons for rejection if applicable. |
+| FR-009   | Manual Review Escalation     | Cases failing automated checks must be escalated to a compliance team for manual review. |
+| FR-010   | Notifications                | Users must receive real-time notifications (email/SMS/in-app) on onboarding status changes. |
+| FR-011   | Admin Login                  | Admin users must be able to log in securely to the web portal with RBAC (Role-Based Access Control). |
+| FR-012   | Admin Dashboard              | Admin users must view overall onboarding statistics, pending verifications, and flagged cases. |
+| FR-013   | Case Management              | Admins must assign, review, and resolve escalated onboarding cases. |
+| FR-014   | Reports & Audit Logs         | The system must generate audit logs of all onboarding activities and allow admins to export reports. |
+| FR-015   | Data Encryption              | All uploaded documents and extracted data must be stored in encrypted format (AES-256). |
+| FR-016   | Session Timeout              | The system must automatically log out users after a configurable period of inactivity. |
+| FR-017   | Multi-Language Support       | The system must support multiple languages (at least English and Hindi) for customer onboarding. |
+| FR-018   | Error Handling               | The system must provide clear error messages and recovery steps for failed uploads or validations. |
+| FR-019   | Scalability                  | The system must handle concurrent onboarding requests (at least 10,000 users simultaneously). |
+| FR-020   | Compliance Reporting         | The system must generate compliance-ready reports for audits (e.g., RBI/SEBI requirements). |
+
+
 ## 4.1 Functional Requirements
 1. **Customer Registration**
    - Capture personal details via mobile/web app.
