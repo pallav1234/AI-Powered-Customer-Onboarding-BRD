@@ -2,6 +2,19 @@
 
 This section defines the **quality attributes** essential for the AI-powered onboarding solution.  
 They ensure performance, reliability, and compliance beyond functional features.
+# 6. Non-Functional Requirements
+
+| ID    | Requirement                | Description                                                                 |
+|-------|----------------------------|-----------------------------------------------------------------------------|
+| NFR-1 | Performance                | System should process onboarding requests within **10 minutes** end-to-end. |
+| NFR-2 | Scalability                | Should support **10,000+ concurrent users** without performance degradation. |
+| NFR-3 | Security                   | All customer data must be **encrypted (AES-256)** at rest and in transit.   |
+| NFR-4 | Compliance                 | Must comply with **RBI/UIDAI regulations** and future updates.              |
+| NFR-5 | Availability               | Target **99.9% uptime** with disaster recovery plan in place.               |
+| NFR-6 | Maintainability            | System should allow easy updates to AI models and business rules.           |
+| NFR-7 | Usability                  | Mobile app and dashboard must have **intuitive UI/UX** for both customers and staff. |
+| NFR-8 | Auditability               | Every onboarding action should be **logged and traceable** for compliance audits. |
+
 
 ---
 
