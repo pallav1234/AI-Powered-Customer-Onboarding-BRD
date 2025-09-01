@@ -2,7 +2,16 @@
 
 This section highlights the **potential risks** associated with implementing the AI-powered customer onboarding solution, along with strategies to **mitigate** them.
 
----
+# 7. Risks & Mitigations
+
+| ID   | Risk                                    | Mitigation                                                                 |
+|------|-----------------------------------------|----------------------------------------------------------------------------|
+| R-1  | Poor image quality → OCR errors         | Integrate auto-enhancement features and provide manual review fallback (≤15%). |
+| R-2  | Regulatory changes impacting compliance | Use a configurable rule engine to quickly adapt to updated policies.       |
+| R-3  | Customer hesitation due to privacy      | Provide transparent consent mechanisms and ensure secure handling as per UIDAI guidelines. |
+| R-4  | AI model bias or inaccuracies           | Regularly retrain models with diverse datasets and conduct fairness audits. |
+| R-5  | System downtime during peak usage       | Implement load balancing, redundancy, and disaster recovery strategies.    |
+
 
 ## Key Risks & Mitigation
 
