@@ -4,6 +4,7 @@ This repository demonstrates how Artificial Intelligence (AI) can be strategical
 It contains a structured **Business Requirements Document (BRD)**, process diagrams, and wireframes to showcase a techno-functional approach to problem solving.  
 
 # 📘 AI-Powered Customer Onboarding BRD
+BRD Cover Page](./BRD-Cover-Page.png.png)
 
 This repository contains the **Business Requirements Document (BRD)** for the AI-Powered Customer Onboarding project.
 
