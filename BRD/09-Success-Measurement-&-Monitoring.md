@@ -1,6 +1,5 @@
 # 9. Success Measurement & Monitoring
 
-# 10. Success Measurement & Monitoring
 
 This section defines the Key Performance Indicators (KPIs) and monitoring mechanisms to measure the success of the AI-powered customer onboarding initiative.
 
