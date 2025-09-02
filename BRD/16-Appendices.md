@@ -1,4 +1,13 @@
-# Section 15: Appendices
+# Section 16: Appendices
+
+The following supporting materials provide additional context:
+
+- **Appendix A:** RBI / Regulatory KYC guidelines reference links  
+- **Appendix B:** Sample onboarding form (mock-up)  
+- **Appendix C:** Stakeholder interview notes (summary)  
+- **Appendix D:** Survey results on customer onboarding pain points  
+- **Appendix E:** Technical diagrams or raw process flows not included in main body  
+
 
 ## 16.1 Assumptions
 - Customers have access to smartphones with internet connectivity.
