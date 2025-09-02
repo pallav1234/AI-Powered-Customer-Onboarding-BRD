@@ -6,6 +6,14 @@ It contains a structured **Business Requirements Document (BRD)**, process diagr
 # 📘 AI-Powered Customer Onboarding BRD
 ![BRD Cover Page](./BRD-Cover-Page.png)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Status">
+  <img src="https://img.shields.io/badge/Document-Type-BRD-blue" alt="Document Type">
+  <img src="https://img.shields.io/badge/Industry-Banking%20Onboarding-lightgrey" alt="Industry">
+  <img src="https://img.shields.io/badge/Last%20Updated-2025--09--02-orange" alt="Last Updated">
+</p>
+
+
 
 This repository contains the **Business Requirements Document (BRD)** for the AI-Powered Customer Onboarding project.
 
