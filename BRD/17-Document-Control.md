@@ -1,6 +1,6 @@
-# Section 16: Document Control
+# Section 17: Document Control
 
-## 16.1 Version History
+## 17.1 Version History
 | Version | Date       | Author       | Description                 |
 |---------|------------|--------------|-----------------------------|
 | 0.1     | 2025-08-21 | Pallav Daru  | Initial draft created       |
@@ -10,7 +10,7 @@
 
 ---
 
-## 16.2 Approvals
+## 17.2 Approvals
 | Role                 | Name / Signature | Date       |
 |----------------------|------------------|------------|
 | Business Analyst     | Pallav Daru      | YYYY-MM-DD |
