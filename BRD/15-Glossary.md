@@ -2,7 +2,21 @@
 
 This section provides definitions of key **terms, acronyms, and abbreviations** used in the BRD to ensure clarity and consistency.
 
----
+# Glossary
+
+| Term                | Definition                                                                 |
+|---------------------|-----------------------------------------------------------------------------|
+| KYC (Know Your Customer) | Process of verifying customer identity as per regulatory standards. |
+| OCR (Optical Character Recognition) | Technology used to extract text from uploaded ID documents. |
+| AI Model            | Machine learning component used for fraud detection and verification.      |
+| API                 | Application Programming Interface, enables system-to-system communication. |
+| Dashboard           | Visual interface for admin users to monitor and track onboarding progress. |
+| Authentication      | The process of verifying user identity (e.g., username/password, OTP).     |
+| Risk Scoring        | AI-driven evaluation of customer risk level during onboarding.             |
+| Audit Logs          | Historical record of system/user activities for compliance and traceability.|
+| Non-Functional Requirements | Performance, security, scalability and usability requirements.     |
+| BRD                 | Business Requirements Document – this document outlining project needs.    |
+
 
 ## Key Terms
 
